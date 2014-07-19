@@ -1,0 +1,6 @@
+C:\Movetodrive\ReadRaven\ReadRaven.Web\bin\ReadRaven.Web.dll.config
+C:\Movetodrive\ReadRaven\ReadRaven.Web\bin\ReadRaven.Web.dll
+C:\Movetodrive\ReadRaven\ReadRaven.Web\bin\ReadRaven.Web.pdb
+C:\Movetodrive\ReadRaven\ReadRaven.Web\obj\Debug\ReadRaven.Web.csprojResolveAssemblyReference.cache
+C:\Movetodrive\ReadRaven\ReadRaven.Web\obj\Debug\ReadRaven.Web.dll
+C:\Movetodrive\ReadRaven\ReadRaven.Web\obj\Debug\ReadRaven.Web.pdb

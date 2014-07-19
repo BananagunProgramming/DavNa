@@ -1,0 +1,11 @@
+C:\Movetodrive\ReadRaven\ReadRaveTeset\bin\Debug\ReadRaveTeset.dll
+C:\Movetodrive\ReadRaven\ReadRaveTeset\bin\Debug\ReadRaveTeset.pdb
+C:\Movetodrive\ReadRaven\ReadRaveTeset\bin\Debug\DataAccess.dll
+C:\Movetodrive\ReadRaven\ReadRaveTeset\bin\Debug\Raven.Abstractions.dll
+C:\Movetodrive\ReadRaven\ReadRaveTeset\bin\Debug\Raven.Client.Lightweight.dll
+C:\Movetodrive\ReadRaven\ReadRaveTeset\bin\Debug\DataAccess.pdb
+C:\Movetodrive\ReadRaven\ReadRaveTeset\bin\Debug\Raven.Abstractions.xml
+C:\Movetodrive\ReadRaven\ReadRaveTeset\bin\Debug\Raven.Client.Lightweight.xml
+C:\Movetodrive\ReadRaven\ReadRaveTeset\obj\Debug\ReadRavenTest.csprojResolveAssemblyReference.cache
+C:\Movetodrive\ReadRaven\ReadRaveTeset\obj\Debug\ReadRaveTeset.dll
+C:\Movetodrive\ReadRaven\ReadRaveTeset\obj\Debug\ReadRaveTeset.pdb
