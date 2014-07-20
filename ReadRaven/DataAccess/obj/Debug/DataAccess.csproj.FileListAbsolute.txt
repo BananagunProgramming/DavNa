@@ -1,9 +1,0 @@
-c:\users\dnash\documents\visual studio 2013\Projects\ReadRaven.sln\DataAccess\bin\Debug\DataAccess.dll
-c:\users\dnash\documents\visual studio 2013\Projects\ReadRaven.sln\DataAccess\bin\Debug\DataAccess.pdb
-c:\users\dnash\documents\visual studio 2013\Projects\ReadRaven.sln\DataAccess\bin\Debug\Raven.Abstractions.dll
-c:\users\dnash\documents\visual studio 2013\Projects\ReadRaven.sln\DataAccess\bin\Debug\Raven.Client.Lightweight.dll
-c:\users\dnash\documents\visual studio 2013\Projects\ReadRaven.sln\DataAccess\bin\Debug\Raven.Abstractions.xml
-c:\users\dnash\documents\visual studio 2013\Projects\ReadRaven.sln\DataAccess\bin\Debug\Raven.Client.Lightweight.xml
-c:\users\dnash\documents\visual studio 2013\Projects\ReadRaven.sln\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
-c:\users\dnash\documents\visual studio 2013\Projects\ReadRaven.sln\DataAccess\obj\Debug\DataAccess.dll
-c:\users\dnash\documents\visual studio 2013\Projects\ReadRaven.sln\DataAccess\obj\Debug\DataAccess.pdb
