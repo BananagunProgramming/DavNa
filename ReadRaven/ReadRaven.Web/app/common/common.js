@@ -24,7 +24,8 @@
         };
     });
 
-    commonModule.factory('common', ['$q', '$rootScope', '$timeout', 'commonConfig', 'logger', common]);
+    commonModule.factory('common',
+        ['$q', '$rootScope', '$timeout', 'commonConfig', 'logger', common]);
 
     function common($q, $rootScope, $timeout, commonConfig, logger) {
         var throttles = {};

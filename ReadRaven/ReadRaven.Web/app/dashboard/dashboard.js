@@ -19,7 +19,7 @@
         activate();
 
         function activate() {
-            var promises = [getMessageCount(), getPeople(), getTotalEventCount];
+            var promises = [getMessageCount(), getPeople()];
             common.activateController(promises, controllerId)
                 .then(function () { log('Activated Dashboard View'); });
         }
@@ -34,10 +34,6 @@
             return datacontext.getPeople().then(function (data) {
                 return vm.people = data;
             });
-        }
-
-        function getTotalEventCount() {
-            return vm.totalEventCount = 99;
         }
     }
 })();
