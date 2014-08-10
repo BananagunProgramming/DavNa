@@ -5,8 +5,6 @@ VisualStudioVersion = 12.0.30501.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RavenDb.DataAccess", "DataAccess\RavenDb.DataAccess.csproj", "{643BCF0D-5BA7-46B7-9288-DCF9B731E40E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadRavenTest", "ReadRaveTeset\ReadRavenTest.csproj", "{4D49A4E0-1539-4C1D-8CD0-C8E3B12B4997}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raven.Web.Api", "Raven.Web.Api\Raven.Web.Api.csproj", "{E69AA47B-BDAB-409A-BB2A-1B0FECDA4093}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadRaven.Web", "ReadRaven.Web\ReadRaven.Web.csproj", "{EC2EF401-A4A7-4C87-869C-5E85F00A9BD2}"
@@ -21,10 +19,6 @@ Global
 		{643BCF0D-5BA7-46B7-9288-DCF9B731E40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{643BCF0D-5BA7-46B7-9288-DCF9B731E40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{643BCF0D-5BA7-46B7-9288-DCF9B731E40E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4D49A4E0-1539-4C1D-8CD0-C8E3B12B4997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D49A4E0-1539-4C1D-8CD0-C8E3B12B4997}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D49A4E0-1539-4C1D-8CD0-C8E3B12B4997}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D49A4E0-1539-4C1D-8CD0-C8E3B12B4997}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E69AA47B-BDAB-409A-BB2A-1B0FECDA4093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E69AA47B-BDAB-409A-BB2A-1B0FECDA4093}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E69AA47B-BDAB-409A-BB2A-1B0FECDA4093}.Release|Any CPU.ActiveCfg = Release|Any CPU

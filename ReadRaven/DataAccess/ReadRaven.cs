@@ -35,7 +35,7 @@ namespace DataAccess
         {
             using (var session = _documentStore.OpenSession())
             {
-                var documents = Queryable.Where(session.Query<AnalyticsEvent, EventByEnterpriseName>(), e => e.EnterpriseName == enterpriseName);
+                var documents = session.Query<AnalyticsEvent, EventByEnterpriseName>().Where(e => e.EnterpriseName == enterpriseName);
                 
                 return documents.AsEnumerable();
             }
@@ -45,7 +45,7 @@ namespace DataAccess
         {
             using (var session = _documentStore.OpenSession())
             {
-                var documents = Queryable.Where(session.Query<AnalyticsEvent, EventByEventType>(), e => e.EventType ==  eventType);
+                var documents = session.Query<AnalyticsEvent, EventByEventType>().Where(e => e.EventType ==  eventType);
 
                 return documents.AsEnumerable();
             }
