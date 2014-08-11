@@ -40,6 +40,17 @@
                     }
                 }
             }
+            , {
+                url: '/events',
+                config: {
+                    title: 'events',
+                    templateUrl: 'app/event/events.html',
+                    settings: {
+                        nav: 2,
+                        content: '<i class="fa fa-calendar"></i> Events'
+                    }
+                }
+            }
         ];
     }
 })();
